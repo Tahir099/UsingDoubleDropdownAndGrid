@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingDoubleDropdownAndGrid", "UsingDoubleDropdownAndGrid\UsingDoubleDropdownAndGrid.csproj", "{35E94018-01FC-4A39-AEB8-D620F51202D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35E94018-01FC-4A39-AEB8-D620F51202D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E94018-01FC-4A39-AEB8-D620F51202D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E94018-01FC-4A39-AEB8-D620F51202D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E94018-01FC-4A39-AEB8-D620F51202D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6E5D140-9D11-411B-9B01-850310760CCE}
+	EndGlobalSection
+EndGlobal
